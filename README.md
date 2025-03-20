@@ -1,11 +1,11 @@
 # CSS Pallete Backup
 
-🎉 **Feature**
+🌈 **Feature**
 
 - Ready to use CSS files for quick copying or downloading.
 - Lightweight and dependency free clone or download the entire repo for offline use.
 
-🚀 **Use Cases**
+🏳️‍🌈 **Use Cases**
 
 - Remote work without reliable internet.
 - Quick access to consistent color variables across projects.
