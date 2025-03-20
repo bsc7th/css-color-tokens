@@ -17,7 +17,7 @@
 - Import the desired CSS files into your projects.
 - Stay productive, even offline.
 
-👉 **Credits to**
+🫡 **Credits to**
 
 - [TailwindCSS](https://tailwindcss.com/docs/colors)
 - [OpenProps](https://open-props.style/)
